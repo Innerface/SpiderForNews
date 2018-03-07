@@ -1,0 +1,2 @@
+# SpiderForNews
+build in scrapy
